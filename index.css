@@ -1,8 +1,8 @@
 body {
 	background-image: url("image/comingsoon2.png");
 	background-size: cover;
-        background I repeat: none;
-}
+        background-repeat: no-repeat;
+}a
 p {
 	color: orange;
 	font-family: Lato;
